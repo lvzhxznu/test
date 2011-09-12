@@ -4523,8 +4523,8 @@ alias html='cl ~/site/data_disk/ '
 alias css='cl ~/site/data_disk/css '
 alias js='cl ~/site/data_disk/js '
 
-alias npmi='sudo npm install '
-alias npml='npm list'
+alias npmi='sudo npm install -g '
+alias npml='npm list -g'
 alias npmu='sudo npm update -gd'
 
 export PATH=$PATH:~/bin
