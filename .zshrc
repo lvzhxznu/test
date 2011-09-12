@@ -4525,5 +4525,6 @@ alias js='cl ~/site/data_disk/js '
 
 alias npmi='sudo npm install '
 alias npml='npm list'
+alias npmu='sudo npm update -gd'
 
 export PATH=$PATH:~/bin
